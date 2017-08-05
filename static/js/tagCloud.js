@@ -1,6 +1,4 @@
 /*
- * @copyright http://blog.rainynight.top/
- * Licensed under MIT
  */
 (function($){
     $.fn.tagCloud = function(){
