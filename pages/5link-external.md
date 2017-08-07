@@ -5,6 +5,6 @@ permalink: /link/
 icon: octicon-link-external
 ---
 
-### [东方星痕](http://www.lxy520.net/)
+### [ShaohvBlog](http://shaohv.huangyan800.com/)
 
-### [Cass](http://cassite.net/)
+### [Lie800](http://www.huangyan800.com/)
