@@ -1,3 +1,12 @@
+---
+layout: post
+title: 基于ScalaTest判断页面没有的元素是否存在
+tags: ScalaTest Selenium Scala
+categories: ScalaTest
+---
+
+
+
 ###基于ScalaTest判断页面没有的元素是否存在
 
 ##### PageModel定义元素位置如下：#####
