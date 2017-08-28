@@ -1,3 +1,10 @@
+---
+layout: post
+title: ScalaTest---判断页面没有的元素是否存在
+tags: ScalaTest Selenium Scala
+categories: ScalaTest
+---
+
 ##### PageModel定义元素位置如下：#####
 ```
 class RewardsActivitiesPage(driver: WebDriver) extends Page(driver) with ExpwebUriBuilder {
